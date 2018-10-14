@@ -82,7 +82,7 @@
           <camunda:formField id="tweetContent" label="Zu veröffentlicher Text" type="string" />
           <camunda:formField id="checkResult" label="Prüfergebnis" type="enum">
             <camunda:value id="accepted" name="Genehmigt" />
-            <camunda:value id="revisable" name="Überarbeitennn" />
+            <camunda:value id="revisable" name="Überarbeitenn" />
             <camunda:value id="rejected" name="Abgelehnt" />
           </camunda:formField>
           <camunda:formField id="checkResultComment" label="Hinweise für MA" type="string" />
